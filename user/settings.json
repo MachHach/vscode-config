@@ -1,0 +1,15 @@
+{   
+    "breadcrumbs.enabled": true,
+    "editor.renderIndentGuides": false,
+    "editor.suggestSelection": "first",
+    "files.associations": {
+        "Vagrantfile": "ruby"
+    },
+    "gitlens.keymap": "none",
+    "telemetry.enableTelemetry": false,
+    "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false
+}

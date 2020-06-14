@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "felixfbecker.php-pack",
+        "bmewburn.vscode-intelephense-client",
+        // Laravel 5 server-side code snippets
+        "onecentlin.laravel5-snippets",
+        // Laravel Blade code snippets
+        "onecentlin.laravel-blade"
+    ]
+}

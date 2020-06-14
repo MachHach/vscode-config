@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        ".bandit": "ini",
+        ".coveragerc": "ini",
+        ".pylintrc": "ini",
+        "requirements*.txt": "pip-requirements"
+    },
+    "python.jediEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "[python]": {
+        "editor.renderWhitespace": "all",
+        "editor.rulers": [
+            {
+                "color": "#333",
+                "column": 79
+            },
+            {
+                "color": "#550",
+                "column": 120
+            }
+        ]
+    }
+}

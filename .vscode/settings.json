@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "**/snippets/*.json": "jsonc",
+        "**/extensions*.json": "jsonc",
+        "**/settings*.json": "jsonc"
+    }
+}

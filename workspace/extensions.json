@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        // Enhanced Git plugin
+        "eamodio.gitlens",
+        // Docker
+        "ms-azuretools.vscode-docker",
+        // VSCode workspace in container
+        "ms-vscode-remote.remote-containers"
+    ]
+}

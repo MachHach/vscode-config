@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        // JavaScript/ECMAScript (.js)
+        "dbaeumer.vscode-eslint",
+        // Vue (.vue)
+        "octref.vetur",
+        // Firefox debugger
+        "firefox-devtools.vscode-firefox-debug"
+    ]
+}
