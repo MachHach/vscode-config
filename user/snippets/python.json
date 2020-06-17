@@ -29,5 +29,11 @@
         "body": [
             "# type: ignore"
         ]
+    },
+    "coverage no cover": {
+        "prefix": "coverage no cover",
+        "body": [
+            "# pragma: no cover"
+        ]
     }
 }

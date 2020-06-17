@@ -5,7 +5,7 @@
         ".pylintrc": "ini",
         "requirements*.txt": "pip-requirements"
     },
-    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
     "python.linting.mypyEnabled": true,
     "python.linting.pylintEnabled": true,
     "python.testing.pytestEnabled": true,
