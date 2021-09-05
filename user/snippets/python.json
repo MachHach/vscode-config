@@ -18,6 +18,12 @@
             "# pylint: disable=${1}"
         ]
     },
+    "pylint enable": {
+        "prefix": "pylint: enable",
+        "body": [
+            "# pylint: enable=${1}"
+        ]
+    },
     "bandit nosec": {
         "prefix": "bandit nosec",
         "body": [
