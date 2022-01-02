@@ -5,6 +5,8 @@
         // Docker
         "ms-azuretools.vscode-docker",
         // VSCode workspace in container
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        // YAML (.yaml, .yml)
+        "redhat.vscode-yaml"
     ]
 }

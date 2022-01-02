@@ -5,10 +5,14 @@
         "Vagrantfile": "ruby"
     },
     "gitlens.keymap": "none",
+    "redhat.telemetry.enabled": false,
     "telemetry.telemetryLevel": "off",
     "window.menuBarVisibility": "toggle",
     "window.titleBarStyle": "custom",
     "window.zoomLevel": 0,
     "workbench.enableExperiments": false,
-    "workbench.settings.enableNaturalLanguageSearch": false
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[yaml]": {
+        "editor.renderWhitespace": "all"
+    }
 }
