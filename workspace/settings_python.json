@@ -6,7 +6,7 @@
         "requirements*.txt": "pip-requirements"
     },
     "python.experiments.enabled": false,
-    "python.languageServer": "Microsoft",
+    "python.languageServer": "Pylance",
     "python.linting.mypyEnabled": true,
     "python.linting.pylintCategorySeverity.convention": "Information",
     "python.linting.pylintCategorySeverity.refactor": "Information",
