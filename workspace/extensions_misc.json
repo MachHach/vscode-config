@@ -7,8 +7,6 @@
         // Border on all occurences of current cursor word
         "iceliu.highlight-icemode",
         // Guiding lines for current cursor indentation
-        "spywhere.guides",
-        // Start integrated terminal of a specified terminal type
-        "tyriar.shell-launcher"
+        "spywhere.guides"
     ]
 }
