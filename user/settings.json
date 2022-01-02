@@ -1,9 +1,6 @@
 {   
     "breadcrumbs.enabled": true,
     "editor.suggestSelection": "first",
-    "files.associations": {
-        "Vagrantfile": "ruby"
-    },
     "gitlens.keymap": "none",
     "redhat.telemetry.enabled": false,
     "telemetry.telemetryLevel": "off",
