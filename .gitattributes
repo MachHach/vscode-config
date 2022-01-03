@@ -1,0 +1,5 @@
+# refer https://github.com/github/linguist/blob/master/docs/overrides.md
+
+snippets/*.json linguist-language=jsonc
+extensions*.json linguist-language=jsonc
+settings*.json linguist-language=jsonc
