@@ -41,5 +41,23 @@
         "body": [
             "# pragma: no cover"
         ]
+    },
+    "black fmt off": {
+        "prefix": "black fmt off",
+        "body": [
+            "# fmt: off"
+        ]
+    },
+    "black fmt on": {
+        "prefix": "black fmt on",
+        "body": [
+            "# fmt: on"
+        ]
+    },
+    "black fmt skip": {
+        "prefix": "black fmt skip",
+        "body": [
+            "# fmt: skip"
+        ]
     }
 }

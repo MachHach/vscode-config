@@ -1,5 +1,6 @@
 {   
     "breadcrumbs.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
     "editor.suggestSelection": "first",
     "gitlens.keymap": "none",
     "redhat.telemetry.enabled": false,

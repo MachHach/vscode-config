@@ -6,6 +6,7 @@
         "requirements*.txt": "pip-requirements"
     },
     "python.experiments.enabled": false,
+    "python.formatting.provider": "black",
     "python.languageServer": "Pylance",
     "python.linting.mypyArgs": [],
     "python.linting.mypyEnabled": false,
@@ -14,6 +15,7 @@
     "python.linting.pylintEnabled": true,
     "python.testing.pytestEnabled": false,
     "[python]": {
+        // "editor.formatOnSave": true,
         "editor.renderWhitespace": "all",
         "editor.rulers": [
             {
