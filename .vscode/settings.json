@@ -2,6 +2,7 @@
     "files.associations": {
         "snippets/*.json": "jsonc",
         "extensions*.json": "jsonc",
+        "launch*.json": "jsonc",
         "settings*.json": "jsonc"
     }
 }

@@ -2,4 +2,5 @@
 
 snippets/*.json linguist-language=jsonc
 extensions*.json linguist-language=jsonc
+launch*.json linguist-language=jsonc
 settings*.json linguist-language=jsonc

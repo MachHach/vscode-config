@@ -27,6 +27,7 @@ VS Code finds them at `${workspaceFolder}/.vscode/`
 In this repository, the **workspace** directory contains example settings. For example, the content of `settings_python.json` file in this directory can be used in the actual workspace level `settings.json` file.
 
 - `extensions*.json` files (extension recommendations, for `extensions.json` file)
+- `launch*.json` files (run/debug configuration, for `launch.json` file)
 - `settings*.json` files (settings, for `settings.json` file)
 
 [vscode-settings]: https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
