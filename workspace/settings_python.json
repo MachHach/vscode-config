@@ -1,8 +1,10 @@
 {
     "files.associations": {
         ".bandit": "ini",
+        ".flaskenv": "dotenv",
         ".coveragerc": "ini",
         ".pylintrc": "ini",
+        ".pypirc": "ini",
         "requirements*.txt": "pip-requirements"
     },
     "python.experiments.enabled": false,
