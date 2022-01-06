@@ -1,0 +1,27 @@
+{
+    "recommendations": [
+        // --- Programming ---
+        // VBScript (.vbs)
+        "darfka.vbscript",
+
+        // --- Data files ---
+        // CSV (.csv)
+        "mechatroner.rainbow-csv",
+        // Environment variables (.env)
+        "mikestead.dotenv",
+        // PlantUML (.puml)
+        "jebbs.plantuml",
+        // Robot Framework (.robot)
+        "tomiturtiainen.rf-intellisense",
+
+        // --- Others ---
+        // GitHub Sharp theme
+        "joaomoreno.github-sharp-theme",
+        // Comments of different colors
+        "aaron-bond.better-comments",
+        // Border on all occurences of current cursor word
+        "iceliu.highlight-icemode",
+        // Guiding lines for current cursor indentation
+        "spywhere.guides"
+    ]
+}
